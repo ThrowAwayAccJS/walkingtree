@@ -1,0 +1,5 @@
+extern void println(string arg);
+extern void print(string arg);
+extern string readln();
+extern int time();
+extern int clear_console();

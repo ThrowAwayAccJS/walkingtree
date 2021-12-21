@@ -1,0 +1,3 @@
+extern bool get_key_state(int arg);
+extern bool sleep(int arg);
+extern int rand_int(int arg);
